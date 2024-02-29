@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_increment">+</string>
+    <string name="button_decrement">-</string>
+    <string name="set_25">FOCUS MODE (25 min)</string>
+</resources>
